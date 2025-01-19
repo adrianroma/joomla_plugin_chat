@@ -1,5 +1,8 @@
 Plugin demo Joomla
 
+Descripcion:
+Este plugin permite agregar un chat para un articulo que se publique , usando el servicio de chatbase donde previamente en default usa un chat que fue alimentado con un manual de como usar "google drive", por lo que si el usuario quiere agregar el chat que fue alimentado con su propio documento PDF 
+
 Usa https://www.chatbase.co/
 
 Instrucciones:

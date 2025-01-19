@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.0" type="plugin" group="content" method="upgrade">
+	<name>plg_uno_unodemo</name>
+	<author>Adrian Romero</author>
+	<creationDate>Jan 2024</creationDate>
+	<copyright>Copyright (C) 2024 Adrian Romero</copyright>
+	<license>MIT</license>
+	<authorEmail>ak540z@hotmail.com</authorEmail>
+	<authorUrl>www.demo.com</authorUrl>
+	<version>1.26</version>
+	<description>Description</description>
+	<files>
+		<filename plugin="unodemo">unodemo.php</filename>
+		<folder>language</folder>
+		<folder>css</folder>
+		<folder>js</folder>
+	</files>
+	<languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.plg_uno_unodemo.sys.ini</language>
+		<language tag="en-GB">en-GB/en-GB.plg_uno_unodemo.ini</language>
+	</languages>
+</extension>
